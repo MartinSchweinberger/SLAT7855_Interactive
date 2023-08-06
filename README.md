@@ -23,7 +23,7 @@ Below is the link to interactive notebook that enable anyone to reproduce the an
 
 [week12_tut.ipynb](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7855_Interactive/main?labpath=week12_tuti.ipynb)
 
-Solutions
+**Solutions**
 
 [week06_tutwA.ipynb](https://mybinder.org/v2/gh/MartinSchweinberger/SLAT7855_Interactive/main?labpath=week06_tutwAi.ipynb)
 
